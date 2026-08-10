@@ -8,9 +8,12 @@ import ProjectsContent from './sections/ProjectsContent'
 import Tools from './sections/Tools'
 import FutureAI from './sections/FutureAI'
 import Methodology from './sections/Methodology'
+import useReveal from './useReveal'
 import './styles/app.css'
 
 function App() {
+  useReveal()
+
   return (
     <>
       <a className="skip-link" href="#conteudo">Pular para o conteúdo</a>
