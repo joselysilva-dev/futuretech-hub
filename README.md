@@ -4,7 +4,7 @@
 
 O **FutureTech Hub** é um projeto em desenvolvimento criado para transformar estudos em prática, projetos, experimentos, documentação e conhecimento compartilhado.
 
-O projeto surgiu durante minha formação em **Engenharia de Software** e está sendo desenvolvido como uma plataforma tecnológica em evolução.
+O projeto surgiu durante meusestudoss em **Engenharia de Software** e está sendo desenvolvido como uma plataforma tecnológica em evolução.
 
 > **Aprender → Praticar → Construir → Documentar → Compartilhar → Evoluir**
 
