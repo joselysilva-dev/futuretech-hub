@@ -1,7 +1,5 @@
 # 🚀 FutureTech Hub
 
-### Learn. Build. Evolve.
-
 **Laboratório digital de Engenharia de Software, tecnologia e aprendizagem prática.**
 
 O **FutureTech Hub** é um projeto em desenvolvimento criado para transformar estudos em prática, projetos, experimentos, documentação e conhecimento compartilhado.
